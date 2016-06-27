@@ -1,0 +1,2 @@
+name,description,password,default_key,algorithm
+Human Resources Key,Used for securing HR applications.,badpassword2,false,PBEWITHSHA256AND128BITAES-CBC-BC

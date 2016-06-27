@@ -1,0 +1,4 @@
+name,restricted,ordinal
+prod,true,0
+qa,false,1
+dev,false,2

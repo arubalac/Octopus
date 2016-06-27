@@ -1,0 +1,11 @@
+plugins/core/
+web-app/WEB-INF/
+.idea/
+target/
+*.iml
+*.ipr
+*.iws
+*.ids
+security.properties
+*.log
+trustdb.gpg
