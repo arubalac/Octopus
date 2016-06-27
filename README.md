@@ -1,6 +1,8 @@
-# Zuul the Gatekeeper of Gozer
+# Zuul Octopus
 
-Web application for securely managing and accessing configuration for webapps.
+Zuul Octopus is a feature upgrade over vanilla Zuul .
+Zuul is an Web application for securely managing and accessing configuration.
+Zuul Octopus provides the capability for Zuul to publish property to mule apps on demand.
 
 # More Information
 
@@ -12,27 +14,12 @@ Web application for securely managing and accessing configuration for webapps.
 
 **Mike Cantrell**
 
-Thanks to [Mike Cantrell](http://devnull.org/) for developing Zuul
+Thanks to [Mike Cantrell](http://devnull.org/) for developing Zuul which is the base.
 
-**Jetbrains**
-
-Thanks to [Jetbrains](http://jetbrains.com/) for graciously donating Intellij IDEA licenses.
-
-**YourKit**
-
-Thanks to YourKit for donating Java profiler licenses.
-
- <blockquote>
-    YourKit is kindly supporting open source projects with its full-featured Java Profiler.
-    YourKit, LLC is the creator of innovative and intelligent tools for profiling
-    Java and .NET applications. Take a look at YourKit's leading software products:
-    <a href="http://www.yourkit.com/java/profiler/index.jsp">YourKit Java Profiler</a> and
-    <a href="http://www.yourkit.com/.net/profiler/index.jsp">YourKit .NET Profiler</a>.
- </blockquote>
 
 # License
 
-   Copyright 2015 Confluex
+   Copyright : yet to update
 
    Licensed under the Apache License, Version 2.0 (the "License");
    you may not use this file except in compliance with the License.
